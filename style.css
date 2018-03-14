@@ -45,6 +45,12 @@ li
 	text-align: left;
 }
 
+pre
+{
+	font-size: 20px;
+	align:center;
+}
+
 p
 {
 	font-size: 20px;
